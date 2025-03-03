@@ -1,1 +1,1 @@
-17 & not trying 
+professional brainfuck developer 🤝
