@@ -1,2 +1,2 @@
 indie game dev. <br>
-I know Java, kotlin, (basic) c++ & python.
+I know Java, kotlin, (basic) c++, python & glsl.
